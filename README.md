@@ -1,1 +1,2 @@
 # Matris-dondurme
+# sensor-configiration
